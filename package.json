@@ -1,0 +1,28 @@
+{
+  "name": "easybankingsolution",
+  "version": "1.0.0",
+  "description": "a fictional landing page from frontend mentors",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/www.github.com/iamgreencoder.git"
+  },
+  "keywords": [
+    "banking",
+    "solution",
+    "nigeria",
+    "lagos",
+    "frontend",
+    "mentors",
+    "iamgreencoder"
+  ],
+  "author": "Blakcoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/www.github.com/iamgreencoder/issues"
+  },
+  "homepage": "https://github.com/www.github.com/iamgreencoder#readme"
+}
